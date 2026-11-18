@@ -1,0 +1,12 @@
+site_name: Plumbing Emergency Playbook
+site_tagline: What to do first when pipes burst, drains back up, or the water heater fails.
+site_description: "Plain-English, sourced guides for plumbing emergencies: burst pipes, sewer backups, clogs, leaks, and water heater failures. What to do in the first minutes, when to call an emergency plumber, and what after-hours service typically costs."
+site_owner: Christie Justice
+language: en
+
+# Proposed subdomain; DNS and the GitHub Pages repo are not set up yet.
+base_url: "https://plumbing.christiejustice.com"
+base_path: ""
+
+# No affiliate links are published yet. Fill this in before adding the first one.
+affiliate_disclosure: ""
