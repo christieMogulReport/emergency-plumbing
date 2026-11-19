@@ -65,6 +65,7 @@ These are **national published estimates**, not quotes. Your price depends on yo
 - Keep fans and a dehumidifier running until the area is fully dry (Progressive, Hanover).
 - Send your insurer the photos, receipts, and the plumber's invoice.
 - Ask the plumber what caused the failure and whether insulation or a leak detection system would help (Progressive).
+- If the cause was a freeze, see [Frozen Pipes: How to Tell, Thaw Safely, and When to Call a Plumber](/frozen-pipes-how-to-thaw-safely/) for preventing a repeat.
 - Mark where the main shutoff is, and test it on a calm day so you aren't learning in an emergency (a tip from the City of Columbus water division, as reported by DisasterServices).
 
 ## Sources
