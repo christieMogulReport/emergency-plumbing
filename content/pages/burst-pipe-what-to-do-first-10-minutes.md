@@ -22,6 +22,8 @@ Water is spraying, dripping through the ceiling, or you hear it running with eve
 6. **Turn off the water heater.** For an electric heater, switch it off at the breaker. For a gas heater, set the control to off as the label on the unit shows. [Kentucky Farm Bureau](https://www.kyfb.com/insurance/lifes-blueprints/what-to-do-if-your-water-heater-leaks/) gives the same advice for leaking heaters. One reason to do it: with the water supply closed, an electric element left powered without water around it can burn out, which is why manufacturers such as A. O. Smith say the tank must be full before power is restored (as relayed by [Speedy Plumbing Baltimore](https://speedyplumbingbaltimore.com/guides/burst-pipe/)).
 7. **If you can't safely reach the breaker panel, don't try.** Call an electrician or your electric utility.
 
+If the leak is coming from the water heater itself, see [Water Heater Leaking? What to Do Tonight](/water-heater-leaking-what-to-do-tonight/).
+
 ## Minute 4 to 6: Drain the lines and limit the spread
 
 8. **Open faucets and flush toilets.** [Progressive](https://www.progressive.com/answers/water-pipe-burst/) and [Hanover](https://www.hanover.com/resources/tips-individuals/prepare-now-learn-how/what-do-when-pipe-bursts) both say to open faucets and flush toilets to relieve pressure and drain what's left in the pipes. Start with the lowest faucet in the house so the water drains into a sink or tub instead of out of the break (Speedy Plumbing Baltimore).
