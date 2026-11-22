@@ -62,7 +62,7 @@ Don't turn the power or gas back on with the tank empty. Manufacturers warn elec
 - Water is near the burner, gas line, or electrical parts, or you smell gas (gas utility first)
 - Water is spreading into finished rooms or through a ceiling
 
-**It can usually wait for a business-hours visit** if the power or gas is off, the inlet valve is closed, the drip is contained (or the tank is drained), and nothing is spreading. You'll be without hot water until it's fixed. Angi notes that if a repair isn't an emergency and you can go without hot water for a day, scheduling during the work week can save money, and that winter is the busiest season for water heater technicians.
+**It can usually wait for a business-hours visit** if the power or gas is off, the inlet valve is closed, the drip is contained (or the tank is drained), and nothing is spreading. You'll be without hot water until it's fixed. (If your heater isn't leaking but has simply gone cold, see [No Hot Water? What to Check Tonight](/no-hot-water-what-to-check-tonight/).) Angi notes that if a repair isn't an emergency and you can go without hot water for a day, scheduling during the work week can save money, and that winter is the busiest season for water heater technicians.
 
 A licensed master plumber answering the "OK overnight?" question on [r/Plumbing](https://www.reddit.com/r/Plumbing/comments/1vqfdhe/gas_water_heater_leaking_from_base_ok_overnight/) said most small base leaks stay small until replacement, but he has also seen small leaks turn into floods overnight, and that the only sure way to avoid damage is to shut off water and gas and drain the tank (anecdotal, one professional's experience).
 
