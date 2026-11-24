@@ -13,7 +13,7 @@ Water coming up through the basement floor drain, a toilet gurgling when the was
 
 | What you see | Likely problem |
 |---|---|
-| One sink, one toilet, or one tub is slow or stopped, everything else drains fine | A local clog in that fixture's drain. Usually not an emergency. |
+| One sink, one toilet, or one tub is slow or stopped, everything else drains fine | A local clog in that fixture's drain. Usually not an emergency. For a single clogged or overflowing toilet, see [Toilet Overflowing or Clogged?](/toilet-overflowing-clogged-what-to-do-now/) |
 | **Several drains back up at once**, toilets or drains gurgle, water comes up through a floor drain, or sewage backs up into a tub or shower | Likely the main sewer line or the public sewer (City of Roseville's list of backup signs) |
 | Backup appears at the **lowest drain in the house** (basement floor drain, basement toilet or shower) | Typical of a backup. The City of Madison says sewage usually pools around a floor drain, toilet, or shower on the lowest level. |
 
