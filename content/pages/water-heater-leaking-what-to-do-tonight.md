@@ -98,6 +98,7 @@ Check your own policy, but here's the general rule from the [Washington State Of
 - The Washington insurance regulator suggests a drain pan with a leak detector under the water heater, and checking it for rust, corrosion, or moisture.
 - A. O. Smith recommends testing the T&P valve once a year (lift the lever and let it snap back), flushing the tank, and starting to plan for replacement once a unit passes 12 years.
 - Label the heater's cold-water valve and your main shutoff so anyone in the house can find them.
+- If the heater shares a laundry room with your washer, check the washer's fill hoses while you're there. See [Washing Machine Hose Burst or Leaking?](/washing-machine-hose-burst-leaking-what-to-do/) for when to replace them.
 
 ## Sources
 
