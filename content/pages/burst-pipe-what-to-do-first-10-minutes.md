@@ -69,6 +69,7 @@ These are **national published estimates**, not quotes. Your price depends on yo
 - Ask the plumber what caused the failure and whether insulation or a leak detection system would help (Progressive).
 - If the cause was a freeze, see [Frozen Pipes: How to Tell, Thaw Safely, and When to Call a Plumber](/frozen-pipes-how-to-thaw-safely/) for preventing a repeat.
 - If the water came from a washing machine supply hose rather than a pipe, see [Washing Machine Hose Burst or Leaking? What to Do Right Now](/washing-machine-hose-burst-leaking-what-to-do/) for swapping the hoses and preventing a repeat.
+- If the water is rising from the sump pit or seeping in during a storm rather than coming from a pipe, see [Sump Pump Stopped Working or the Power Is Out?](/sump-pump-not-working-basement-flooding/).
 - Mark where the main shutoff is, and test it on a calm day so you aren't learning in an emergency (a tip from the City of Columbus water division, as reported by DisasterServices).
 
 ## Sources

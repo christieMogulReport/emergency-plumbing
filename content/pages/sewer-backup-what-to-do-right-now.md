@@ -98,6 +98,7 @@ Often **not by default.** The [Michigan Department of Insurance and Financial Se
 - **Don't pour grease down the kitchen drain** or flush wipes. Angi suggests inexpensive drain strainers on kitchen and tub drains.
 - **If backups keep happening,** have the lateral camera-inspected for roots or a break (Madison).
 - **Save your city's 24/7 sewer number in your phone now.** Roseville makes the same suggestion.
+- **Basement water that's groundwater, not sewage?** If the sump pit is overflowing or the pump won't run, see [Sump Pump Stopped Working or the Power Is Out?](/sump-pump-not-working-basement-flooding/)
 - Know where your main water shutoff is too. See the [burst pipe guide](/burst-pipe-what-to-do-first-10-minutes/) and, in cold weather, [frozen pipes](/frozen-pipes-how-to-thaw-safely/).
 
 ## Sources
